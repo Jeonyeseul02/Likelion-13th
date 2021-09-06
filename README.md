@@ -10,3 +10,4 @@
   
 *css 기본 이해
  * Toy Project - 나의 사진 갤러리 [이동](https://jeonyeseul02.github.io/Likelion-13th/02_css.gallery/14_img_gallery.html) [code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/02_css.gallery/14_img_gallery.html)
+ * myhomepage - 나의 홈페이지 [이동](https://jeonyeseul02.github.io/Likelion-13th/전예슬_homepage/main.html)
