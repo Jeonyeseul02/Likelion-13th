@@ -8,7 +8,10 @@
   * 03 a img tag[link](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/web_html/03_html_link_img.html)
   * 04 div, span, ul, ol, li [code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/web_html/04_html.div_span.html)
   
-*css 기본 이해
+## css 기본 이해
  * Toy Project - 나의 사진 갤러리 [이동](https://jeonyeseul02.github.io/Likelion-13th/02_css.gallery/14_img_gallery.html) [code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/02_css.gallery/14_img_gallery.html)
- * homework project - 나의 홈페이지 [이동](https://jeonyeseul02.github.io/Likelion-13th/00_mywork/main.html)
- 
+ * homepage project - 나의 홈페이지 [이동](https://jeonyeseul02.github.io/Likelion-13th/00_mywork/main.html)
+
+## 데이터 웹 크롤링 하기
+ * crawling project  - 영화 '황금광시대' 리뷰 15page crawling [code1](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/04_web_data/13-1_homework.py) [code2](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/04_web_data/13-2_homework.py)
+
