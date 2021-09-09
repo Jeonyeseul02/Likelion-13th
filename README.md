@@ -13,4 +13,5 @@
  * homepage project - 나의 홈페이지 [이동](https://jeonyeseul02.github.io/Likelion-13th/00_mywork/main.html)
 
 ## 데이터 웹 크롤링 하기
- * crawling project  - 영화 '황금광시대' 리뷰 15page crawling [code1](https://github.com/Jeonyeseul02/Likelion-13th/04_web_data/13-1_homework) [code2](https://github.com/Jeonyeseul02/Likelion-13th/04_web_data/13-2_homework)
+ * crawling project  - 영화 '황금광시대' 리뷰 15page crawling [code1](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/04_web_data/13-1_homework.py) [code2](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/04_web_data/13-2_homework.pyk)
+
