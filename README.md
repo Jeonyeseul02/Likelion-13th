@@ -14,6 +14,6 @@
 
 ## 웹 데이터 정보 얻기
  * KOSDAQ_information - 코스닥 정보 가져와서 csv/xsxl 파일 만들기[code 보기](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/03_kosdaq_data/KOSDAQ_GET.py)
- * crawling project  - 영화 '황금광시대' 리뷰 15page crawling [code1](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/04_web_data/13-1_homework.py) [code2](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/04_web_data/13-2_homework.py)
+ * crawling project  - 영화 '황금광시대' 리뷰 15page crawling [code1](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/04_web_data_crawling/13-1_homework.py) [code2](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/04_web_data_crawling/13-2_homework.py)
  
 
