@@ -19,4 +19,4 @@
 
 ## 파이썬 라이브러리
 * seaborn - 캐글(타이타닉 생존자 예측 대회 실습)을 통해 seaborn 이해하기[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/05_python_library/seaborn/210915_titanic.ipynb)
-* folium - 나의 맛집리스트,자주가는 리스트 지도로 표시하기 [맛집리스트code]( )   [자주가는리스트code]( )
+* folium - 나의 맛집리스트,자주가는 리스트 지도로 표시하기[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/06_folium/Untitled17.ipynb)
