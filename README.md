@@ -21,7 +21,7 @@
 * seaborn - 캐글(타이타닉 생존자 예측 대회 실습)을 통해 seaborn 이해하기[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/05_python_library/seaborn/210915_titanic.ipynb)
 * folium - 나의 맛집리스트,자주가는 리스트 지도로 표시하기[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/06_folium/Untitled17.ipynb)
 * folium_(2) 실습 - 서울시 금천구 CCTV 현황 100 [지도보기](https://jeonyeseul02.github.io/Likelion-13th/seoul_금천구_CCTV.html)
-* pandas_(1) - 데이터프레임 개념이해하기
+* pandas_(1) - 데이터프레임 개념이해하기[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/05_(1)_python_library/pandas.ipynb)
 * pandas_(2) - [pandas,seaborn, plotly] 실습을 통해 파이썬 시각화 라이브러리 이해하기
 * pandas_(3) - 코로나 백신 접종률 데이터를 통해 pandas에 대해 깊이있는 분석하기
 * konlpy - 분노의 질주 데이터를 통해 topic modeling 실습 및 konlpy 이해하기
