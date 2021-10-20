@@ -15,7 +15,7 @@
 ## 웹 데이터 정보 얻기
  * KOSDAQ_information - 코스닥 정보 가져와서 csv/xsxl 파일 만들기[code 보기](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/03_kosdaq_data/KOSDAQ_GET.py)
  * crawling project  - 영화 '황금광시대' 리뷰 15page crawling [code1](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/04_web_data_crawling/13-1_homework.py) [code2](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/04_web_data_crawling/13-2_homework.py)
- * pilot project - 교보문고 (21년 9월 1주차) 베스트셀러 100순위 데이터를 통한 분류별 선호도 파악하기[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/04_web_data_crawling/pilot_project_%EC%A0%84%EC%98%88%EC%8A%AC.ipynb) [결과보기](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/04_web_data_crawling/%EA%B5%90%EB%B3%B4%EB%AC%B8%EA%B3%A0_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%85%80%EB%9F%AC_100.csv)  [결과정리_xlsx](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/04_web_data_crawling/%EA%B5%90%EB%B3%B4%EB%AC%B8%EA%B3%A0_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%85%80%EB%9F%AC_100.xlsx)
+
 
 ## 파이썬 라이브러리
 * seaborn - 캐글(타이타닉 생존자 예측 대회 실습)을 통해 seaborn 이해하기[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/05_python_library/seaborn/210915_titanic.ipynb)
@@ -26,10 +26,12 @@
 * pandas_(3) - 코로나 백신 접종률 데이터를 통해 pandas에 대해 깊이있는 분석하기
 * konlpy - 분노의 질주 데이터를 통해 topic modeling 실습 및 konlpy 이해하기
 
-## 팀 프로젝트
-* 크롤링,스크래핑,API활용 실습 및 bs4,requests,selenium 등 파이썬 라이브러리 실습을 통해 데이터분석,시각화, 전처리 이해하기
-
 ## 머신러닝 기본이해
 * Machine Learning - 머신러닝 기본 이해하기 
 * 회귀모델 - 회귀 모델 실습 및 랏소와 릿지에 대해 이해하기
 * 의사결정트리 - 의사결정 트리 및 앙상블 모델 실습하기
+
+## Project
+* team_project : 크롤링,스크래핑,API활용 실습 및 bs4,requests,selenium 등 파이썬 라이브러리 실습을 통해 데이터분석,시각화, 전처리 이해하기
+* pilot project - 교보문고 (21년 9월 1주차) 베스트셀러 100순위 데이터를 통한 분류별 선호도 파악하기[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/04_web_data_crawling/pilot_project_%EC%A0%84%EC%98%88%EC%8A%AC.ipynb) [결과보기](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/04_web_data_crawling/%EA%B5%90%EB%B3%B4%EB%AC%B8%EA%B3%A0_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%85%80%EB%9F%AC_100.csv)  [결과정리_xlsx](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/04_web_data_crawling/%EA%B5%90%EB%B3%B4%EB%AC%B8%EA%B3%A0_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%85%80%EB%9F%AC_100.xlsx)
+* pilot project_2 - 나의 머신러닝 모델만들기(칼로리 및 3대 영양소 입력시 적합한 음식 추천 모델만들기) 
