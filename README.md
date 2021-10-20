@@ -22,16 +22,18 @@
 * folium - 나의 맛집리스트,자주가는 리스트 지도로 표시하기[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/06_folium/Untitled17.ipynb)
 * folium_(2) 실습 - 서울시 금천구 CCTV 현황 100 [지도보기](https://jeonyeseul02.github.io/Likelion-13th/seoul_금천구_CCTV.html)
 * pandas_(1) - 데이터프레임 개념이해하기[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/05_(1)_python_library/pandas.ipynb)
-* pandas_(2) - [pandas,seaborn, plotly] 실습을 통해 파이썬 시각화 라이브러리 이해하기
-* pandas_(3) - 코로나 백신 접종률 데이터를 통해 pandas에 대해 깊이있는 분석하기
-* konlpy - 분노의 질주 데이터를 통해 topic modeling 실습 및 konlpy 이해하기
+* pandas_(2) - [pandas,seaborn, plotly] 실습을 통해 파이썬 시각화 라이브러리 이해하기[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/05_(1)_python_library/pandas_2.ipynb)
+* pandas_(3) - 코로나 백신 접종률 데이터를 통해 pandas에 대해 깊이있는 분석하기[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/05_(1)_python_library/corona_pratice.ipynb)
+* selenium - 백실실습을 통해 selenium 이해 및 파일 병합 실습[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/05_(1)_python_library/corona_pratice.ipynb)
+* konlpy - 분노의 질주 데이터를 통해 topic modeling 실습 및 konlpy 이해하기[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/05_(1)_python_library/konlpy_%EC%8B%A4%EC%8A%B5.ipynb)
 
 ## 머신러닝 기본이해
-* Machine Learning - 머신러닝 기본 이해하기 
-* 회귀모델 - 회귀 모델 실습 및 랏소와 릿지에 대해 이해하기
-* 의사결정트리 - 의사결정 트리 및 앙상블 모델 실습하기
+* Machine Learning - 머신러닝 기본 이해하기[code1](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/08_Machine_Learning/20211012.ipynb) [code2](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/08_Machine_Learning/20211012_class2.ipynb)
+* 회귀모델 - 회귀 모델 실습 및 랏소와 릿지에 대해 이해하기 [code1](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/08_Machine_Learning/20211013.ipynb) [code2](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/08_Machine_Learning/20211013_class2.ipynb)
+* 의사결정트리 - 의사결정 트리 및 앙상블 모델 실습하기[code1](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/08_Machine_Learning/20211014_(1).ipynb) [code2](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/08_Machine_Learning/20211014_(2).ipynb)
+* 교차검증 - titanic data를 통해 교차검증 실습하기[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/08_Machine_Learning/%EA%B5%90%EC%B0%A8%EA%B2%80%EC%A6%9D%EC%8B%A4%EC%8A%B5_%EC%A0%84%EC%98%88%EC%8A%AC_titanic.ipynb)
 
 ## Project
-* team_project : 크롤링,스크래핑,API활용 실습 및 bs4,requests,selenium 등 파이썬 라이브러리 실습을 통해 데이터분석,시각화, 전처리 이해하기
+* team_project : 크롤링,스크래핑,API활용 실습 및 bs4,requests,selenium 등 파이썬 라이브러리 실습을 통해 데이터분석,시각화, 전처리 이해하기 [결과보기](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/07_Team_Project/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%82%AC%EC%9E%90%EA%B0%90%EC%84%B1_%EC%B5%9C%EC%A2%85%20(1).pdf)
 * pilot project - 교보문고 (21년 9월 1주차) 베스트셀러 100순위 데이터를 통한 분류별 선호도 파악하기[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/04_web_data_crawling/pilot_project_%EC%A0%84%EC%98%88%EC%8A%AC.ipynb) [결과보기](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/04_web_data_crawling/%EA%B5%90%EB%B3%B4%EB%AC%B8%EA%B3%A0_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%85%80%EB%9F%AC_100.csv)  [결과정리_xlsx](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/04_web_data_crawling/%EA%B5%90%EB%B3%B4%EB%AC%B8%EA%B3%A0_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%85%80%EB%9F%AC_100.xlsx)
-* pilot project_2 - 나의 머신러닝 모델만들기(칼로리 및 3대 영양소 입력시 적합한 음식 추천 모델만들기) 
+* pilot project_2 - 나의 머신러닝 모델만들기(칼로리 및 3대 영양소 입력시 적합한 음식 추천 모델만들기) [code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/08_Machine_Learning/pilot_project_2_machine_learning.ipynb) 
