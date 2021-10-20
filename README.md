@@ -20,4 +20,16 @@
 ## 파이썬 라이브러리
 * seaborn - 캐글(타이타닉 생존자 예측 대회 실습)을 통해 seaborn 이해하기[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/05_python_library/seaborn/210915_titanic.ipynb)
 * folium - 나의 맛집리스트,자주가는 리스트 지도로 표시하기[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/06_folium/Untitled17.ipynb)
-* 서울시 금천구 CCTV 현황 100 [지도보기](https://jeonyeseul02.github.io/Likelion-13th/seoul_금천구_CCTV.html)
+* folium_(2) 실습 - 서울시 금천구 CCTV 현황 100 [지도보기](https://jeonyeseul02.github.io/Likelion-13th/seoul_금천구_CCTV.html)
+* pandas_(1) - 데이터프레임 개념이해하기
+* pandas_(2) - [pandas,seaborn, plotly] 실습을 통해 파이썬 시각화 라이브러리 이해하기
+* pandas_(3) - 코로나 백신 접종률 데이터를 통해 pandas에 대해 깊이있는 분석하기
+* konlpy - 분노의 질주 데이터를 통해 topic modeling 실습 및 konlpy 이해하기
+
+## 팀 프로젝트
+* 크롤링,스크래핑,API활용 실습 및 bs4,requests,selenium 등 파이썬 라이브러리 실습을 통해 데이터분석,시각화, 전처리 이해하기
+
+## 머신러닝 기본이해
+* Machine Learning - 머신러닝 기본 이해하기 
+* 회귀모델 - 회귀 모델 실습 및 랏소와 릿지에 대해 이해하기
+* 의사결정트리 - 의사결정 트리 및 앙상블 모델 실습하기
