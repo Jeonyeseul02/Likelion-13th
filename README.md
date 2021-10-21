@@ -32,7 +32,7 @@
 * 회귀모델 - 회귀 모델 실습 및 랏소와 릿지에 대해 이해하기 [code1](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/08_Machine_Learning/20211013.ipynb) [code2](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/08_Machine_Learning/20211013_class2.ipynb)
 * 의사결정트리 - 의사결정 트리 및 앙상블 모델 실습하기[code1](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/08_Machine_Learning/20211014_(1).ipynb) [code2](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/08_Machine_Learning/20211014_(2).ipynb)
 * 교차검증 - titanic data를 통해 교차검증 실습하기[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/08_Machine_Learning/%EA%B5%90%EC%B0%A8%EA%B2%80%EC%A6%9D%EC%8B%A4%EC%8A%B5_%EC%A0%84%EC%98%88%EC%8A%AC_titanic.ipynb)
-* 라벨 인코딩 - 라벨인코딩 및 원핫인코딩 실습하기 [code]()
+* 라벨 인코딩 - 라벨인코딩 및 원핫인코딩 실습하기 [code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/08_Machine_Learning/20211021_labelencoding_onehotencoding.ipynb)
 
 ## Project
 * team_project : 크롤링,스크래핑,API활용 실습 및 bs4,requests,selenium 등 파이썬 라이브러리 실습을 통해 데이터분석,시각화, 전처리 이해하기 [결과보기](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/07_Team_Project/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%82%AC%EC%9E%90%EA%B0%90%EC%84%B1_%EC%B5%9C%EC%A2%85%20(1).pdf)
