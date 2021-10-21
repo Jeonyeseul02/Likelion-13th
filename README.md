@@ -40,5 +40,5 @@
 * pilot project_2 - 나의 머신러닝 모델만들기(칼로리 및 3대 영양소 입력시 적합한 음식 추천 모델만들기) [code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/08_Machine_Learning/pilot_project_2_machine_learning.ipynb) 
 
 ## Kaggle survey
-* survey1 - titanic 분석 및 머신러닝 모델 만들기[code]()
+* survey1 - titanic 분석 및 머신러닝 모델 만들기[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/100_Kaggle_practice/kaggle_survey1_titanic.ipynb)
 * survey2 - kaggle learning 분석[
