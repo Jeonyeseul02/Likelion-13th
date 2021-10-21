@@ -41,4 +41,4 @@
 
 ## Kaggle survey
 * survey1 - titanic 분석 및 머신러닝 모델 만들기[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/100_Kaggle_practice/kaggle_survey1_titanic.ipynb)
-* survey2 - kaggle learning 분석[
+* survey2 - kaggle learning 분석[code](https://github.com/Jeonyeseul02/Likelion-13th/blob/main/100_Kaggle_practice/kaggle_survey2_kaggle_learning.ipynb)
